@@ -8,6 +8,6 @@ In this research, we evaluate and compare two algorithms:
 
 We compare these algorithms using Recall and Precision metrics.
 
-Read in other languages: \
-* ru: [RuVersion](AnomalyResearch.md) \
+Read in other languages: 
+* ru: [RuVersion](AnomalyResearch.md) 
 * en: [EnVersion](AnomalyResearch_en.md)
