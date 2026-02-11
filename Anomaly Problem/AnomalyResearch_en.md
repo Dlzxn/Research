@@ -1,5 +1,3 @@
-Here is the translation of your text into English, preserving your structure and code:
-
 **Outlier Detection** is an important topic in machine learning. Algorithms of this type are relevant and used everywhere:
 Cybersecurity, Banking systems, data preprocessing, medicine, log analysis, quality control, and this is just a small part of the list.
 Today we will get acquainted with two such algorithms, compare them, and look at the results of our work.
